@@ -1,0 +1,28 @@
+{
+  "name": "imageload",
+  "title": "JQuery image load",
+  "description": "JQuery plugin to lazy load image",
+  "version": "1.0.0",
+  "homepage": "",
+  "author": {
+    "name": "Edgard Leal",
+    "url": "https://github.com/edgardleal"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "imageload",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery-ui": "~1.10.4"
+  },
+  "devDependencies": {
+    "qunit": "~1.12.0",
+    "jquery": "~2.1.0"
+  }
+}
